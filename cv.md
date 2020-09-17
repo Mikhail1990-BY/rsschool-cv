@@ -5,7 +5,7 @@
 **email:** mishakolode@gmail.com  
 **github:** [Mikhail1990-BY](https://github.com/Mikhail1990-BY)
 ## **Summary**
-I have no experience in Front-End Development, my work is all about engeneering. And it’s boring.
+I have no experience in Front-End Development, my work is all about engeneering. And it’s very boring.
 That’s why i want to change my job and start to create.  
 I’m ambitious and hardworking, so I believe I can become a good coder.
 ## **Skills**
