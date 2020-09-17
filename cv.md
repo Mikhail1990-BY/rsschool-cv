@@ -21,7 +21,7 @@ Faculty of Technology of Organic Substances
 *2008-2013*
 
 **Self-education:**  
-Complete html(basics), css(basics) and JavaScript(basics) courses on Hexlet
+Complete html(basics), css(basics) and JavaScript(basics) courses on Hexlet.
 ## **English**
 **A2+. Pre-Intermediate**  
-Everyday practice on [Lingualeo](https://lingualeo.com/en)
+Everyday practice on [Lingualeo](https://lingualeo.com/en).
