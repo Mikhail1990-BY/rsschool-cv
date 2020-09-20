@@ -24,4 +24,4 @@ Faculty of Technology of Organic Substances
 Complete html(basics), css(basics) and JavaScript(basics) courses on Hexlet.
 ## **English**
 **A2+. Pre-Intermediate**  
-Everyday practice on [Lingualeo](https://lingualeo.com/en).
+Everyday practice on [Lingualeo](https://lingualeo.com/en)
