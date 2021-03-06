@@ -1,1 +1,1 @@
-https://mikhail1990-by.github.io/rsschool-cv/index
+https://mikhail1990-by.github.io/rsschool-cv/cv
