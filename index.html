@@ -14,29 +14,49 @@
         }
         .content {
             width: 50%;
-            margin: auto;            
+            margin: auto; 
+                
         }
         header {
             display:flex;
             justify-content: space-between;
             align-items:center;
             flex-wrap: wrap;
-            padding: 30px 0px 40px 0px;            
+            padding: 30px 0px 40px 0px;  
+            background-color: bisque;          
         }       
         h1 {
             text-transform: uppercase;
             font-size: 2.5em;
             margin: auto;
         }
+
+        h2 {
+            font-size: 2em;
+            margin-block-end: 0.1em;
+        }
+
+        p {
+            font-size: 1em;
+        }
         .myphoto {
             width: 250px;
-            margin: auto;
+            margin-left: 60px;
         } 
+        .contacts {
+            list-style: none;
+            padding: 0;
+            font-size: 24px;
+        }
         .info {
             margin: auto;
         }
         .location {
             font-size: 1.8em;
+        }
+
+        main {
+            background-color: lightgoldenrodyellow;
         }
     </style>
 </head>
@@ -48,10 +68,17 @@
             <h1>KALADZIANETS MIKHAIL</h1>
             <div class = "location">Mozyr, Belarus</div>
             <br>  
-            <div class = "contacts"> phone: +37533 6191615</div>
-            <div class = "contacts"> e-mail: <a href="https://mail.google.com/mail/u/0/#inbox">mishakolode@gmail.com</a></div>
-            <div class = "contacts"> github:<a href="https://github.com/Mikhail1990-BY">Mikhail1990-BY</a> </div>
-            
+            <ul class="contacts">
+                <li>
+                    phone: +37533 6191615
+                </li>
+                <li>
+                    e-mail: <a href="https://mail.google.com/mail/u/0/#inbox">mishakolode@gmail.com</a>
+                </li>
+                <li>
+                    github:<a href="https://github.com/Mikhail1990-BY">Mikhail1990-BY</a>
+                </li>
+            </ul>
         </div>
     </header>
     <main> 
